@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Lab10.taskmanager.blog.templates.blog.blog.blog.views" />
+          <option value="blog.blog.views" />
+          <option value="Lab10.taskmanager.blog.templates.blog.blog.blog.urls.blog" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
